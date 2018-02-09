@@ -1,0 +1,11 @@
+.btn{
+	background: $button-bg;
+	border-radius: $button-border-radius;
+	box-shadow: $button-box-shadow;
+	margin: $button-margin;
+	padding: $button-padding;
+}
+
+.btn:hover{
+	background: $button-bg-hover;
+}
